@@ -1,3 +1,6 @@
+* linguist-vendored
+*.C linguist-vendored=false
+*.H linguist-vendored=false
 *.C linguist-language=Java
 *.H linguist-language=Java
 *.M linguist-language=Java
